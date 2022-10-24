@@ -1,0 +1,27 @@
+#logo {
+  height: 150px;
+}
+
+#filme {
+  height: 400px
+}
+
+nav {
+  display: inline-block;
+    vertical-align: top;
+
+}
+nav ul{
+
+  display: inline-block;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 20px 0 40px;
+}
+
+filme {
+  display: inline-block;
+}
+
